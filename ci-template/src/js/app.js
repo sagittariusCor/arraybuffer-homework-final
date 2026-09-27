@@ -2,3 +2,4 @@
 import {Magician, Daemon} from './character';
 
 console.log('worked');
+
