@@ -1,6 +1,4 @@
 // TODO: write your code here
-import sum from './basic';
+import {Magician, Daemon} from './character';
 
 console.log('worked');
-
-console.log(sum([1, 2]));
